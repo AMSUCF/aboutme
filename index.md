@@ -4,7 +4,7 @@ title: Anastasia Salter - Academic Portfolio Demo
 ---
 ## Hello world
 
-![Featured Image](/assets/quilts.jpg)
+![Featured Image](/assets/quilt.jpg)
 
 - [Hello world](#hello-world)
 - [About me](#about-me)
